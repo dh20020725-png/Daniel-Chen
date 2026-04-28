@@ -18,7 +18,7 @@
 
 <!-- COMPANY BACKGROUND IMAGE -->
 <div align="center">
-  <img src="YOUR_COMPANY_BACKGROUND_IMAGE_URL_HERE" width="100%" />
+  <img src="back.png" width="100%" />
 </div>
 
 ---
@@ -80,14 +80,14 @@ MongoDB • PostgreSQL • MySQL
 
 ### 📌 Company Logo
 <div align="center">
-  <img src="YOUR_COMPANY_LOGO_URL_HERE" width="180" />
+  <img src="company.png" width="180" />
 </div>
 
 <br/>
 
 ### 👥 Team Showcase
 <div align="center">
-  <img src="YOUR_TEAM_PHOTO_URL_HERE" width="80%" />
+  <img src="company.png" width="80%" />
   <br/>
   <sub>
     This team photo is a curated composition generated from all members' individual photos by Senior Developer <b>Jin Zhen Xing</b>.
