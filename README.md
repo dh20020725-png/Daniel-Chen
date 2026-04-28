@@ -1,117 +1,120 @@
-<h1 align="center">Daniel Chen</h1>
-<h3 align="center">Full-Stack • AI • Blockchain Developer</h3>
+<div align="center">
 
-<p align="center">
-Building scalable, intelligent, and decentralized applications.
-</p>
+# DANIEL CHEN
 
----
+### Full-Stack • AI Systems • Blockchain Engineer
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Digital+Systems;AI+Driven+Applications+%26+Automation;Blockchain+%26+Web3+Architecture;Clean+Engineering+%7C+Real+Products" />
 
-I’m a Full-Stack, AI, and Blockchain Developer with a Computer Science background, focused on building real-world, production-ready systems.
+<br/>
 
-- 🚀 End-to-end application development (frontend → backend → deployment)
-- 🤖 AI-powered features (LLMs, chatbots, automation)
-- 🔗 Blockchain & smart contracts (Web3, Solidity, Hyperledger)
-- ⚡ Performance, scalability, and clean architecture
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20Blockchain-6C63FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Location-Remote%20(Global)-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-2EA043?style=for-the-badge&labelColor=0D1117" />
+
+</div>
 
 ---
 
-## 🧠 Core Expertise
+## ✦ Philosophy
 
-- Full-Stack Development (MERN, Next.js)
-- AI Integration (OpenAI APIs, LLM-based systems)
-- Blockchain Development (Ethereum, Solidity, Hyperledger Fabric)
-- API Design & System Architecture
-- Scalable SaaS & Web Applications
+> I build systems that are not just functional — but scalable, intelligent, and production-ready.
+
+I focus on clarity over complexity, and real-world impact over experimentation.
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ What I Build
 
-**Frontend**
-- React.js / Next.js / Vue.js  
-- HTML / CSS / Modern UI  
-
-**Backend**
-- Node.js / Python / Django  
-- REST APIs / Microservices  
-
-**Database**
-- MongoDB / PostgreSQL / MySQL  
-
-**AI**
-- OpenAI API / LLMs / AI Automation  
-
-**Blockchain**
-- Solidity / Ethereum / Web3.js / Hyperledger  
+- ⚡ Full-stack SaaS platforms  
+- 🤖 AI-powered automation systems  
+- 🔗 Blockchain & smart contract ecosystems  
+- 📊 Scalable backend architectures  
+- 🌐 API-driven distributed systems  
 
 ---
 
-## 💼 Experience
+## ✦ Tech Stack
 
-**Freelance Full-Stack / AI / Blockchain Developer**  
-*Aug 2025 – Apr 2026 (Remote)*  
-- Built AI chatbot systems → improved response time by 30%  
-- Developed blockchain solutions for financial systems  
-- Created scalable full-stack applications with real-world users  
+**Frontend**  
+React • Next.js • Vue.js • Tailwind CSS • Modern UI Systems  
 
-**Full-Stack Developer – GitLab (Remote)**  
-*Jul 2023 – Nov 2023*  
-- Developed and maintained scalable web applications  
-- Designed REST APIs and improved system performance  
-- Collaborated across teams to deliver production features  
+**Backend**  
+Node.js • Python • Django • REST APIs • Microservices  
 
----
+**AI / ML**  
+OpenAI API • LLM Integration • AI Agents • Automation Systems  
 
-## 🏗️ Key Projects & Impact
+**Blockchain**  
+Solidity • Ethereum • Web3.js • Hyperledger Fabric  
 
-- 🔗 Blockchain-based supply chain system → reduced costs by 20%  
-- 🤖 AI chatbot applications → increased engagement significantly  
-- 🛒 Smart contract e-commerce platform (Solidity + Ethereum)  
-- 📊 AI-driven recommendation systems for user personalization  
+**Database**  
+MongoDB • PostgreSQL • MySQL  
 
 ---
 
-## 🎓 Education
+## ✦ Experience
 
-**Bachelor’s Degree in Computer Science**  
+### Freelance Full-Stack / AI / Blockchain Engineer  
+**2025 – 2026 (Remote)**  
+- Built AI chatbot systems with +30% engagement improvement  
+- Developed blockchain-based financial and supply chain systems  
+- Delivered end-to-end scalable SaaS applications  
+- Integrated AI APIs into production systems  
+
+---
+
+### Full-Stack Developer – GitLab  
+**2023 (Remote)**  
+- Developed scalable production web applications  
+- Built REST APIs and optimized backend performance  
+- Collaborated in distributed engineering teams  
+- Improved system reliability and scalability  
+
+---
+
+## ✦ Impact Highlights
+
+- + AI Chatbot Systems → +30% engagement  
+- + Blockchain Supply Chain → -20% operational cost  
+- + Smart Contract E-Commerce → secure decentralized transactions  
+- + Recommendation Engine → improved personalization accuracy  
+
+---
+
+## ✦ Education
+
+Bachelor of Computer Science  
 Missouri University of Science and Technology  
 2019 – 2023  
 
-Focus: Full-Stack Systems, AI Applications, Scalable Architecture  
+Focused on system design, scalable architectures, and full-stack engineering.
 
 ---
 
-## 🌍 Languages
+## ✦ Languages
 
-- English  
-- Chinese  
-
----
-
-## ⚡ Current Focus
-
-- AI-powered SaaS products  
-- LLM-based automation tools  
-- Scalable Web + AI + Blockchain integrations  
+English • Chinese  
 
 ---
 
-## 📫 Contact
+## ✦ Interests
 
-- 📧 dh20020725@gmail.com  
-- 📍 Dandong  
+Football (Real Madrid CF), system design, and high-performance engineering.
 
----
-
-## ⚽ Interests
-
-Football (Real Madrid), strategy, teamwork, and high-performance systems.
+I approach development with the mindset of competitive sports: discipline, precision, and execution.
 
 ---
 
-<p align="center">
-⚡ "Building intelligent systems that scale in the real world."
-</p>
+## ✦ Contact
+
+📧 dh20020725@gmail.com  
+🌍 Open to global remote opportunities  
+
+---
+
+<div align="center">
+
+### “Simplicity is the ultimate sophistication.”
+
+</div>
