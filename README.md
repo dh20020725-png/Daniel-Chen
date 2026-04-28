@@ -1,120 +1,118 @@
 <div align="center">
 
-# DANIEL CHEN
+# 21st DreamDev
 
-### Full-Stack • AI Systems • Blockchain Engineer
+### Full-Stack • AI Systems • Blockchain Engineering Company
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Digital+Systems;AI+Driven+Applications+%26+Automation;Blockchain+%26+Web3+Architecture;Clean+Engineering+%7C+Real+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Digital+Solutions;Full-Stack+Engineering+%26+Scalable+Systems;Blockchain+%26+Web3+Architectures;Remote-First+Global+Development+Team" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20Blockchain-6C63FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Location-Remote%20(Global)-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-2EA043?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Team-50%2B%20Engineers%20Worldwide-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Actively%20Building%20AI%20Products-2EA043?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 ---
 
-## ✦ Philosophy
-
-> I build systems that are not just functional — but scalable, intelligent, and production-ready.
-
-I focus on clarity over complexity, and real-world impact over experimentation.
-
----
-
-## ✦ What I Build
-
-- ⚡ Full-stack SaaS platforms  
-- 🤖 AI-powered automation systems  
-- 🔗 Blockchain & smart contract ecosystems  
-- 📊 Scalable backend architectures  
-- 🌐 API-driven distributed systems  
+<!-- COMPANY BACKGROUND IMAGE -->
+<div align="center">
+  <img src="YOUR_COMPANY_BACKGROUND_IMAGE_URL_HERE" width="100%" />
+</div>
 
 ---
 
-## ✦ Tech Stack
+## ✦ Company Vision
+
+> We build intelligent systems that solve real-world problems using AI, scalable architecture, and modern engineering.
+
+21st DreamDev is a **fully remote global IT company** founded by **Daniel Harris**, bringing together 50+ developers, engineers, and AI specialists from around the world.
+
+Our mission is simple: **make AI-powered technology useful, practical, and accessible for everyone.**
+
+---
+
+## ✦ What We Do
+
+- ⚡ AI-powered SaaS platforms & automation systems  
+- 🤖 Intelligent chatbots & LLM integrations  
+- 🔗 Blockchain applications & smart contracts  
+- 🌐 Scalable full-stack web applications  
+- 📊 API-driven backend ecosystems  
+
+---
+
+## ✦ Core Tech Stack
 
 **Frontend**  
-React • Next.js • Vue.js • Tailwind CSS • Modern UI Systems  
+React • Next.js • Tailwind CSS • Modern UI Systems  
 
 **Backend**  
-Node.js • Python • Django • REST APIs • Microservices  
+Node.js • Python • Django • Microservices • REST APIs  
 
 **AI / ML**  
-OpenAI API • LLM Integration • AI Agents • Automation Systems  
+OpenAI API • LLM Systems • AI Agents • Automation Workflows  
 
 **Blockchain**  
-Solidity • Ethereum • Web3.js • Hyperledger Fabric  
+Solidity • Ethereum • Web3.js  
 
 **Database**  
 MongoDB • PostgreSQL • MySQL  
 
 ---
 
-## ✦ Experience
+## ✦ Team Structure
 
-### Freelance Full-Stack / AI / Blockchain Engineer  
-**2025 – 2026 (Remote)**  
-- Built AI chatbot systems with +30% engagement improvement  
-- Developed blockchain-based financial and supply chain systems  
-- Delivered end-to-end scalable SaaS applications  
-- Integrated AI APIs into production systems  
+- 👨‍💻 Full-Stack Engineers  
+- 🤖 AI & Machine Learning Engineers  
+- 🔗 Blockchain Developers  
+- 🎨 UI/UX Designers  
+- ⚙️ DevOps & Cloud Engineers  
 
----
-
-### Full-Stack Developer – GitLab  
-**2023 (Remote)**  
-- Developed scalable production web applications  
-- Built REST APIs and optimized backend performance  
-- Collaborated in distributed engineering teams  
-- Improved system reliability and scalability  
+**Global remote collaboration across multiple time zones.**
 
 ---
 
-## ✦ Impact Highlights
+## ✦ Company Identity
 
-- + AI Chatbot Systems → +30% engagement  
-- + Blockchain Supply Chain → -20% operational cost  
-- + Smart Contract E-Commerce → secure decentralized transactions  
-- + Recommendation Engine → improved personalization accuracy  
+### 📌 Company Logo
+<div align="center">
+  <img src="YOUR_COMPANY_LOGO_URL_HERE" width="180" />
+</div>
 
----
-
-## ✦ Education
-
-Bachelor of Computer Science  
-Missouri University of Science and Technology  
-2019 – 2023  
-
-Focused on system design, scalable architectures, and full-stack engineering.
+### 👥 Team Showcase
+<div align="center">
+  <img src="YOUR_TEAM_PHOTO_URL_HERE" width="80%" />
+</div>
 
 ---
 
-## ✦ Languages
+## ✦ About Founder
 
-English • Chinese  
+**Daniel Harris** — Founder & CEO  
+Leads vision, architecture strategy, and AI-first product development.
 
 ---
 
-## ✦ Interests
+## ✦ Impact Focus
 
-Football (Real Madrid CF), system design, and high-performance engineering.
-
-I approach development with the mindset of competitive sports: discipline, precision, and execution.
+- AI systems that improve real productivity  
+- Scalable architectures for global usage  
+- Secure blockchain-based solutions  
+- Real-world automation products  
 
 ---
 
 ## ✦ Contact
 
-📧 dh20020725@gmail.com  
-🌍 Open to global remote opportunities  
+📧 contact@21stdreamdev.com  
+🌍 Fully remote • Global partnerships welcome  
 
 ---
 
 <div align="center">
 
-### “Simplicity is the ultimate sophistication.”
+### “Building the future with intelligence, scale, and precision.”
 
 </div>
