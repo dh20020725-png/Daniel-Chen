@@ -90,7 +90,7 @@ MongoDB • PostgreSQL • MySQL
   <img src="company.png" width="80%" />
   <br/>
   <sub>
-    This team photo is a curated composition generated from all members' individual photos by Senior Developer <b>Jin Zhen Xing</b>.
+    This team photo is a curated composition generated from all members' individual photos.
     <br/>
     21st DreamDev is a fully remote company with no physical office building — our team operates globally across different time zones.
   </sub>
